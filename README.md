@@ -19,7 +19,8 @@ A desktop-based Student Management System built using Python, Tkinter, and SQLit
 
 ## 📸 Project Screenshot
 
-(Add screenshot here later)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b7efe74-5a18-4a05-94ab-57d1b634cc08" />
+
 
 ## ▶️ How to Run
 
